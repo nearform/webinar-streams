@@ -1,0 +1,13 @@
+{
+  "name": "stressor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "climem": "^1.0.0",
+    "pump": "^1.0.1",
+    "saxophonist": "^1.0.0"
+  }
+}
